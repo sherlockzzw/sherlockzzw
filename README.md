@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 技术栈
+### 我只会cv
 
 ![PHP](https://img.shields.io/badge/-PHP-00ADD8?style=flat-square&logo=figma&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
