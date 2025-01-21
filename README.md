@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sherlockzzw&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
 
 ### It always seems impossible until it's done.
 
