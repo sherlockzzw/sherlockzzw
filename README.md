@@ -14,42 +14,4 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-00ADD8?style=flat-square&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-00ADD8?style=flat-square&logo=rabbitmq&logoColor=white)
 
----
 
-### About Me
-
-```go
-package main
-
-import (
-	"fmt"
-	"time"
-)
-
-func main() {
-	selfIntroduction()
-	for _, v := range selfIntroduction() {
-		println(v)
-	}
-}
-
-func selfIntroduction() map[string]string {
-	sherlock := make(map[string]string)
-	sherlock["name"] = "Sherlock"
-	sherlock["age"] = getAge()
-	sherlock["Learning"] = "PHP, GOLANG, JAVA, PYTHON"
-
-	return sherlock
-}
-
-func getAge() string {
-	start := time.Date(1998, 2, 28, 0, 0, 0, 0, time.Local)
-	now := time.Now()
-
-	years := now.Year() - start.Year()
-	if now.YearDay() < start.YearDay() {
-		years--
-	}
-
-	return fmt.Sprintf("%d", years)
-}
