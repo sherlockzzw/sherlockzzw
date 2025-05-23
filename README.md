@@ -3,8 +3,8 @@
 
 ### It always seems impossible until it's done.
 
-![PHP](https://img.shields.io/badge/-PHP-00ADD8?style=flat-square&logo=php&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-00ADD8?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-00ADD8?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-00ADD8?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00ADD8?style=flat-square&logo=mysql&logoColor=white)
